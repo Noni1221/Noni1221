@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there! I'm <span style="color:#f72585;"> Nikhil Gupta</span>
+  Hey there! I'm <span style="color:#f72585;"> Nikhil Gupta</span>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 🎓 Pursuing *B.Tech in Computer Technology/Systems* from *GGSIPU, Delhi*  
 🔐 Ex-Cybersecurity Research Intern @ *Cyber Security Association of India*  
 📊 Skilled in *Data Analysis* – Excel, Power BI, SQL, Python  
-🛡 Proficient in *Side-Channel Attacks, **Keylogging*, Cybersecurity, VAPT, and advanced cyber threat simulations  
+🛡 Proficient in *Side-Channel Attacks*, *Keylogging*, Cybersecurity, VAPT, and advanced cyber threat simulations  
 🌟 Built *real-world projects* blending cybersecurity and data visualization
 
 ---
@@ -66,9 +66,9 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/neetigya-choudhary-487660315"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:neetigyachoudhary9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/neeti2024"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nikhil-gupta"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nikhilgupta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nikhilgupta"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -81,9 +81,3 @@
 ![Infosys Badge](https://img.shields.io/badge/IoT%20Security-Infosys-blueviolet?style=flat-square&logo=infosys)
 
 ---
-
-## 🔥 I'm not just learning... I'm LEVELING UP
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRsaWNmNGh0ODNtdWluMWIwODgxdDk2aHRzMHZndzhoY2FjdjZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RdUDA3FdhIATND1HTr/giphy.gif" width="400px"/>
-</p>
